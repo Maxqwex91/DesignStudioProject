@@ -1,0 +1,17 @@
+D:\ProgramData\Git\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\ProgramData\Git\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\ProgramData\Git\DAL\bin\Debug\net6.0\DAL.dll
+D:\ProgramData\Git\DAL\bin\Debug\net6.0\DAL.pdb
+D:\ProgramData\Git\DAL\bin\Debug\net6.0\Domain.dll
+D:\ProgramData\Git\DAL\bin\Debug\net6.0\Domain.pdb
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.dll
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.pdb
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\ProgramData\Git\DAL\obj\Debug\net6.0\ref\DAL.dll
